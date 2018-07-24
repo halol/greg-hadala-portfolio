@@ -1,0 +1,17 @@
+{
+  "name": "hadal-design",
+  "version": "1.0.0",
+  "description": "Portfolio migrated from gulp to parcel env",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "bulma": "0.7.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
